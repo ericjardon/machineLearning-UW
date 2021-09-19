@@ -1,3 +1,4 @@
 turicreate
 numpy
 matplotlib
+jupyter
