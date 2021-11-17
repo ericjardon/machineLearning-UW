@@ -1,8 +1,8 @@
-turicreate
 numpy
 matplotlib
-jupyter
+notebook
 nltk
 sklearn
 spacy
 gensim
+pandas
